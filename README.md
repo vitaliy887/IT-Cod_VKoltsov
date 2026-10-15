@@ -1,218 +1,94 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/status-активный-success?style=for-the-badge" alt="status"/>
-<img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="version"/>
-<img src="https://img.shields.io/badge/python-3.10%2B-informational?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-<img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license"/>
+<a href="https://github.com/USERNAME/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&height=70&bg=0d1b2a,1b263b,0a192f&gradient=true&lines=%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%20%D0%92.;%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%20%D0%A1%D0%9A%D0%A4%D0%A3;Future%20Developer" alt="Кольцов В. — студент СКФУ" />
+</a>
 
-# 🚀 [Название проекта]
+<!-- Тёмно-синий баннер-фон -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1b263b,100:13315c&height=120&section=header" width="100%" />
 
-> ✨ Краткое описание проекта в одну строку — что делает и зачем ✨
+# 🐍 Привет, я **Кольцов В.**
 
-[Демо 🌐](https://example.com) · [Документация 📚](https://example.com/docs) · [Issues 🐛](https://github.com/username/repo/issues) · [Pull Requests 📬](https://github.com/username/repo/pulls)
+**Студент СКФУ** • учусь, кодю и кормлю змейку точками
 
-</div>
-
----
-
-<div align="center">
-
-## 📸 Скриншоты
-
-<table>
-  <tr>
-    <td><img src="assets/screenshot1.png" alt="Скриншот 1" width="400"/></td>
-    <td><img src="assets/screenshot2.png" alt="Скриншот 2" width="400"/></td>
-  </tr>
-</table>
+![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=1b263b)
+![Repo stars](https://img.shields.io/badge/СКФУ-%20студент-13315c?style=for-the-badge)
+![Snake](https://img.shields.io/badge/игра-Змейка-4FC3F7?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📋 Содержание
+## 🕹️ Змейка
 
-- [🧠 О проекте](#-о-проекте)
-- [⚡ Возможности](#-возможности)
-- [🛠 Технологии](#-технологии)
-- [🚀 Быстрый старт](#-быстрый-старт)
-- [⚙️ Установка](#️-установка)
-- [🧪 Тесты](#-тесты)
-- [📂 Структура проекта](#-структура-проекта)
-- [🗺 Роадмап](#-роадмап)
-- [🤝 Как внести вклад](#-как-внести-вклад)
-- [🙏 Благодарности](#-благодарности)
-- [👤 Автор](#-автор)
-- [📄 Лицензия](#-лицензия)
+> Игра прямо в репозитории: файл `index.html` открывается в браузере и работает без сборки.
+> Разверни GitHub Pages (`Settings → Pages → main / root`) — и играть можно по ссылке
+> **https://USERNAME.github.io/USERNAME** 🎮
 
 ---
 
-## 🧠 О проекте
+## 🐍 Змейка ест мой график контрибуций
 
-<details open>
-<summary><b>Подробнее</b></summary>
-<br>
+Анимация генерируется автоматически GitHub Actions и обновляется сама после каждого коммита.
 
-В пару абзацев: какую задачу решает проект, кому он полезен и почему он крутой. Сюда же можно вставить gif-анимацию:
-
-<div align="center">
-  <img src="assets/demo.gif" alt="Демонстрация работы" width="600"/>
-</div>
-
-</details>
-
-## ⚡ Возможности
-
-- ✅ **Фича 1** — короткое описание
-- ✅ **Фича 2** — короткое описание
-- ✅ **Фича 3** — короткое описание
-- 🚧 Фича 4 — *в разработке*
-
-## 🛠 Технологии
-
-<div align="center">
-
-| Технология | Назначение | Логотип |
-|------------|------------|:-------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Backend / логика | 🐍 |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | REST API | ⚡ |
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | База данных | 🗄 |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Контроль версий | 🌿 |
-
-</div>
-
-## 🚀 Быстрый старт
-
-Одна команда — и проект уже бежит локально:
-
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-pip install -r requirements.txt
-python main.py
-```
-
-Открыть в браузере: `http://localhost:8000` 🎉
-
-## ⚙️ Установка
+<picture>
+  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <details>
-<summary><b>Развернуть пошагово</b></summary>
+<summary>⚙️ Как включить (workflow-файл)</summary>
 
-### 1️⃣ Клонирование
+Сохрани как `.github/workflows/snake.yml`:
 
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-```
-
-### 2️⃣ Виртуальное окружение
-
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# Linux / macOS
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3️⃣ Зависимости
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Переменные окружения
-
-Создайте файл `.env` по образцу из `.env.example`:
-
-```env
-SECRET_KEY=your_secret_key
-DEBUG=True
+```yaml
+name: 🐍 Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 </details>
 
-## 🧪 Тесты
+---
 
-```bash
-pytest -v --cov
-```
+## 📊 Статистика
 
 <div align="center">
-<img src="https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat-square" alt="coverage"/>
-<img src="https://img.shields.io/badge/tests-passing-success?style=flat-square" alt="tests"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=blue-navy&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=blue-navy&hide_border=true" height="150" />
 </div>
-
-## 📂 Структура проекта
-
-```
-repo/
-├── 📁 assets/          # картинки, скриншоты
-├── 📁 src/             # исходный код
-│   ├── 📄 main.py
-│   └── 📄 utils.py
-├── 📁 tests/           # тесты
-├── 📄 requirements.txt # зависимости
-├── 📄 LICENSE
-└── 📄 README.md        # вы здесь 👋
-```
-
-## 🗺 Роадмап
-
-- [x] Базовая функциональность
-- [x] Тесты и покрытие
-- [ ] Авторизация 🔐
-- [ ] Docker-контейнер 🐳
-- [ ] CI/CD через GitHub Actions ⚙️
-- [ ] Выпуск v2.0 🎊
-
-Смотреть полный список задач на [проектной доске](https://github.com/username/repo/projects).
-
-## 🤝 Как внести вклад
-
-Любой вклад горячо приветствуется! 🔥
-
-1. Форкните репозиторий (`Fork`)
-2. Создайте ветку: `git checkout -b feature/amazing-feature`
-3. Закоммитьте: `git commit -m "Add amazing feature"`
-4. Запушьте: `git push origin feature/amazing-feature`
-5. Откройте Pull Request
-
-Баги и идеи — в [Issues](https://github.com/username/repo/issues).
-
-## 🙏 Благодарности
-
-- [Стековерфлоу](https://stackoverflow.com) — за то, что существует
-- [Stack Overflow партнёры-коллеги](https://ru.stackoverflow.com) и менторы СКФУ — за помощь и ревью
-- Все, кто ставил ⭐ этому проекту
-
-## 👤 Автор
-
-<div align="center">
-
-**Кольцов В.**
-
-Студент СКФУ (Северо-Кавказский федеральный университет)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@mail.ru)
-
-</div>
-
-## 📄 Лицензия
-
-Распространяется под лицензией **MIT**. Подробности — в файле [LICENSE](LICENSE).
 
 ---
 
 <div align="center">
 
-Made with ❤️ & ☕ by **Koltsov V.** · СКФУ · 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13315c,100:0a192f&height=100&section=footer" width="100%" />
 
-⭐ *Если проект был полезен — поставьте звезду, это лучшая поддержка!* ⭐
+**Кольцов В.** ✦ Студент СКФУ ✦ 2026
+
+![snake ascii](https://img.shields.io/badge/🐸-eat-code-sleep-repeat-0a192f?style=flat-square)
 
 </div>
