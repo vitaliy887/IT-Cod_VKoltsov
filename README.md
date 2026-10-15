@@ -23,7 +23,7 @@
 
 > Игра прямо в репозитории: файл `index.html` открывается в браузере и работает без сборки.
 > Разверни GitHub Pages (`Settings → Pages → main / root`) — и играть можно по ссылке
-> **https://USERNAME.github.io/USERNAME** 🎮
+> **https://vitaliy887.github.io/IT-Cod_VKoltsov/** 🎮
 
 ---
 
@@ -34,7 +34,7 @@
 <picture>
   <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
   <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Змейка ест контрибуции" src="https://vitaliy887.github.io/IT-Cod_VKoltsov/" />
+  <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details>
