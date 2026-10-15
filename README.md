@@ -21,8 +21,6 @@
 
 ## 🕹️ Змейка
 
-> Игра прямо в репозитории: файл `index.html` открывается в браузере и работает без сборки.
-> Разверни GitHub Pages (`Settings → Pages → main / root`) — и играть можно по ссылке
 > **https://vitaliy887.github.io/IT-Cod_VKoltsov/** 🎮
 
 ---
@@ -32,9 +30,9 @@
 Анимация генерируется автоматически GitHub Actions и обновляется сама после каждого коммита.
 
 <picture>
-  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/vitaliy887/vitaliy887/output/github-contribution-grid-snake-dark.svg" />
+  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/vitaliy887/vitaliy887/output/github-contribution-grid-snake.svg" />
+  <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/vitaliy887/vitaliy887/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details>
@@ -77,8 +75,8 @@ jobs:
 ## 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=blue-navy&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=blue-navy&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitaliy887&show_icons=true&theme=blue-navy&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?vitaliy887=vitaliy887&layout=compact&theme=blue-navy&hide_border=true" height="150" />
 </div>
 
 ---
