@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/vitaliy887/vitaliy887">
+<a href="https://github.com/vitaliy887/IT-Cod_VKoltsov">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&height=70&bg=0d1b2a,1b263b,0a192f&gradient=true&lines=%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%20%D0%92.;%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%20%D0%A1%D0%9A%D0%A4%D0%A3;Future%20Developer" alt="Кольцов В. — студент СКФУ" />
 </a>
 
