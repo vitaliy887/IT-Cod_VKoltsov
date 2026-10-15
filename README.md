@@ -30,9 +30,12 @@
 Анимация генерируется автоматически GitHub Actions и обновляется сама после каждого коммита.
 
 <picture>
-  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/vitaliy887/vitaliy887/output/github-contribution-grid-snake-dark.svg" />
-  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/vitaliy887/vitaliy887/output/github-contribution-grid-snake.svg" />
-  <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/vitaliy887/vitaliy887/output/github-contribution-grid-snake.svg" />
+  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
+/output/github-contribution-grid-snake-dark.svg" />
+  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
+/output/github-contribution-grid-snake.svg" />
+  <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
+ /output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details>
