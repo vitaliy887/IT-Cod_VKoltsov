@@ -36,6 +36,8 @@
 /output/snake.svg" />
   <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
  /output/github-contribution-grid-snake.svg" />
+"https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
+/output/snake.svg"
 </picture>
 
 <details>
