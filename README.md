@@ -31,9 +31,9 @@
 
 <picture>
   <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
-/output/github-contribution-grid-snake-dark.svg" />
+/output/snake-dark.svg" />
   <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
-/output/github-contribution-grid-snake.svg" />
+/output/snake.svg" />
   <img alt="Змейка ест контрибуции" src="https://raw.githubusercontent.com/vitaliy887/IT-Cod_VKoltsov
  /output/github-contribution-grid-snake.svg" />
 </picture>
