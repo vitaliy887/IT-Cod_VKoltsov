@@ -12,7 +12,7 @@ IT-Cod_VKoltsov">
 
 **Студент СКФУ** • учусь, кодю и кормлю змейку точками
 
-![GitHub followers](https://img.shields.io/github/followers/vitaliy?style=for-the-badge&color=1b263b)
+![GitHub followers](https://img.shields.io/github/followers/vitaliy887?style=for-the-badge&color=1b263b)
 ![Repo stars](https://img.shields.io/badge/СКФУ-%20студент-13315c?style=for-the-badge)
 ![Snake](https://img.shields.io/badge/игра-Змейка-4FC3F7?style=for-the-badge)
 
